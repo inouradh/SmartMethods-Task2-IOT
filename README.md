@@ -7,4 +7,5 @@ To be able to control and communicate with the Arduino, we should use the serial
 
 
 Try saying "Right" or "Left" into the microphone provided by the browser, or you can say or "يمين" or "يسار" in Arabic.
+
 In the same way that the servo should turn right if you say "Right" or "يمين" it should also turn left if you say "Left" or "يسار"
